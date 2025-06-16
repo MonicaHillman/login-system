@@ -44,7 +44,7 @@ project-root/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/MonicaHillman/login-system
 cd seu-repo
 ```
 
